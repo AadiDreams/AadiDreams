@@ -1,4 +1,4 @@
-![programming](./assets/main.gif)
+<img src="./assets/pro.gif" width="100%" height="400px">
 <h1 align="center">Hi there 👋 I'am Aadithya V Anand</h1>
 
 <!--
