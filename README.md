@@ -1,4 +1,5 @@
-### Hi there 👋
+![programming](./assets/main.gif)
+<h1 align="center">Hi there 👋 I'am Aadithya V Anand</h1>
 
 <!--
 **AadiDreams/AadiDreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
